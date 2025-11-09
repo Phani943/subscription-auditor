@@ -4,9 +4,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/Phani943/subscription-auditor?style=for-the-badge)](https://github.com/Phani943/subscription-auditor/stargazers)
 [![License](https://img.shields.io/github/license/Phani943/subscription-auditor?style=for-the-badge)](LICENSE)
 
-A modern React Native subscription management app built with Expo to help you track and manage all your subscriptions in one place.
-
 [📥 Download APK](https://github.com/Phani943/subscription-auditor/releases/latest/download/subscription-auditor.apk) • [📸 Screenshots](#-screenshots) • [✨ Features](#-features) • [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
+
+A modern React Native subscription management app built with Expo to help you track and manage all your subscriptions in one place.
 
 ## ✨ Features
 
@@ -165,11 +165,6 @@ This project is licensed under the MIT License.
 
 **Phani**
 - GitHub: [@Phani943](https://github.com/Phani943)
-
-## 🙏 Acknowledgments
-
-- Built with [Expo](https://expo.dev/)
-- Icons by [Ionicons](https://ionic.io/ionicons)
 
 ---
 
