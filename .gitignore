@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+# junk
+.idea/
+.vscode/
+
 # Expo
 .expo/
 dist/
