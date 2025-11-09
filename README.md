@@ -57,7 +57,51 @@ npx expo start
 
 ## 📱 Screenshots
 
-*Coming soon...*
+<div align="center">
+
+### Main Screens
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home-img.jpg" width="250" alt="Home Screen"/>
+      <br />
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/analytics-1-img.jpg" width="250" alt="Analytics"/>
+      <br />
+      <b>Analytics</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/add-sub-img.jpg" width="250" alt="Add Subscription"/>
+      <br />
+      <b>Add Subscription</b>
+    </td>
+  </tr>
+</table>
+
+### Additional Features
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/edit-sub-img.jpg" width="250" alt="Edit Subscription"/>
+      <br />
+      <b>Edit Subscription</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/delete-img.jpg" width="250" alt="Delete Confirmation"/>
+      <br />
+      <b>Delete Confirmation</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/splash-img.jpg" width="250" alt="Splash Screen"/>
+      <br />
+      <b>Splash Screen</b>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🏗️ Project Structure
 ```
