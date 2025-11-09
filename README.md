@@ -1,6 +1,12 @@
 # 📱 Subscription Auditor
 
+[![GitHub release](https://img.shields.io/github/v/release/Phani943/subscription-auditor?style=for-the-badge)](https://github.com/Phani943/subscription-auditor/releases)
+[![GitHub stars](https://img.shields.io/github/stars/Phani943/subscription-auditor?style=for-the-badge)](https://github.com/Phani943/subscription-auditor/stargazers)
+[![License](https://img.shields.io/github/license/Phani943/subscription-auditor?style=for-the-badge)](LICENSE)
+
 A modern React Native subscription management app built with Expo to help you track and manage all your subscriptions in one place.
+
+[📥 Download APK](https://github.com/Phani943/subscription-auditor/releases/latest/download/subscription-auditor.apk) • [📸 Screenshots](#-screenshots) • [✨ Features](#-features) • [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 
 ## ✨ Features
 
@@ -133,6 +139,19 @@ eas build --platform android --profile preview
 # Or use local build
 npx expo run:android --variant release
 ```
+
+## 📥 Download
+
+**[Download Latest APK (v1.0.0)](https://github.com/Phani943/subscription-auditor/releases/latest/download/subscription-auditor.apk)** • 31 MB
+
+Compatible with Android 7.0+ • Works on 95% of modern phones
+
+### Installation
+1. Download the APK
+2. Enable "Unknown Sources" in Settings
+3. Install and enjoy! 🎉
+
+---
 
 ## 🤝 Contributing
 
